@@ -1,6 +1,4 @@
-# KamalaRamas.github.io
-
-Personal Website
+# Personal Website
 
 Have added/planning to add the following details
 1. About
